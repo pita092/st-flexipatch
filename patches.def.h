@@ -249,7 +249,7 @@
  * https://github.com/cog1to/st-ligatures
  * https://st.suckless.org/patches/ligatures/
  */
-#define LIGATURES_PATCH 1
+#define LIGATURES_PATCH 0
 
 /* This patch makes st ignore terminal color attributes by forcing display of the default
  * foreground and background colors only - making for a monochrome look. Idea ref.
